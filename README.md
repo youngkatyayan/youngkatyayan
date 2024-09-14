@@ -2,8 +2,9 @@
 <h1 align="center">Hi 👋, I'm Durgesh Katyayan</h1>
 <h3 align="center">A passionate Full Stack Dev and Android Dev from India</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-
 <a href="https://wakatime.com/@6a35f861-13f5-4e6b-ab4a-96a684032fce"><img src="https://wakatime.com/badge/user/6a35f861-13f5-4e6b-ab4a-96a684032fce.svg" alt="Total time coded since Aug 28 2024" /></a>
+
+
 
 - 📫 How to reach me **youngkong9601@gmail.com**
 
