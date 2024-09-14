@@ -1,11 +1,11 @@
 ![logo](https://github.com/9455013932/Deepak-Kumar-Singh/blob/main/git_dash_.png)
-<h1 align="center">Hi 👋, I'm Deepak Kumar Singh</h1>
-<h3 align="center">A passionate Data Scientist from India</h3>
+<h1 align="center">Hi 👋, I'm Durgesh Katyayan</h1>
+<h3 align="center">A passionate Full Stack Dev and Android Dev from India</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 - 📝 I regularly write articles on [https://medium.com/@kumarsinghdeepak659/](https://medium.com/@kumarsinghdeepak659/)
 
-- 📫 How to reach me **kumarsinghdeepak65@gmail.com**
+- 📫 How to reach me **youngkong9601@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
